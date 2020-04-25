@@ -1,0 +1,7 @@
+D:\Google Drive\Education\University\6. Semester\Special Topics - C#\Project\Grep\Grep\bin\Debug\Grep.exe.config
+D:\Google Drive\Education\University\6. Semester\Special Topics - C#\Project\Grep\Grep\bin\Debug\Grep.exe
+D:\Google Drive\Education\University\6. Semester\Special Topics - C#\Project\Grep\Grep\bin\Debug\Grep.pdb
+D:\Google Drive\Education\University\6. Semester\Special Topics - C#\Project\Grep\Grep\obj\Debug\Grep.csprojAssemblyReference.cache
+D:\Google Drive\Education\University\6. Semester\Special Topics - C#\Project\Grep\Grep\obj\Debug\Grep.csproj.CoreCompileInputs.cache
+D:\Google Drive\Education\University\6. Semester\Special Topics - C#\Project\Grep\Grep\obj\Debug\Grep.exe
+D:\Google Drive\Education\University\6. Semester\Special Topics - C#\Project\Grep\Grep\obj\Debug\Grep.pdb
